@@ -1,0 +1,27 @@
+{
+    "@@locale": "en",
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "appName":"Creative Fabrica",
+
+    "dashboardPleaseRefreshTryAgain":"Please press refresh to reload try again",
+    "dashboardOldData":"Old Data is being shown. Please turn on internet and press refresh button for latest results.",
+
+
+    "initCompleted": "Initializing Completed",
+    "initPleaseWait": "Initializing please wait...",
+    "imageViewTitle": "Image",
+
+    "appInitializing": "App Initializing...",
+    "anonymousLoginDisabled":"Anonymous auth hasn't been enabled for this project.",
+    "cancel":"Cancel",
+    "continueNext":"Continue",
+    "noInternet":"No Internet",
+    "noInternetConnection":"No Internet. Please connect Internet to continue.",
+    "retry":"Retry",
+    "turnOnInternet":"Please connect to the Internet to continue.",
+    "unknownError":"An unknown error has occurred"
+}
